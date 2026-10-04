@@ -108,6 +108,10 @@ struct student {
     }
 int main() { 
     insert_last();
+    insert_first();
+    insert_any();
+    traverse();
+    delete_first();
     traverse();
     delete_last();
     traverse();
