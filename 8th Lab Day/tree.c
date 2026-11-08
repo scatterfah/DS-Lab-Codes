@@ -1,3 +1,6 @@
+//1.Write a c program to implement the above tree and print the information
+//2.Write a c program to implement the above tree and print the information using Arry;
+// Tittle: Experiment with Binary tree.
 #include<stdio.h>
 #include<stdlib.h>
 struct node{
